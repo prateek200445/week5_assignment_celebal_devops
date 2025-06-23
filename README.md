@@ -1,13 +1,17 @@
 # week5_assignment_celebal_devops
-🧠** Scalable Kubernetes Internship Assignment – DevOps Project by Prateek
-This repository contains solutions to a comprehensive DevOps assignment focused on Kubernetes cluster deployment, role-based access control (RBAC), and microservice architecture using tools like Minikube, Kubeadm, and Azure Kubernetes Service (AKS).
+# Scalable Kubernetes Internship Assignment – DevOps Project by Prateek
+**This repository contains solutions to a comprehensive DevOps assignment focused on Kubernetes cluster deployment, role-based access control (RBAC), and microservice architecture using tools like Minikube, Kubeadm, and Azure Kubernetes Service (AKS).
 **
+🧠
 All tasks have been completed with hands-on configuration and step-by-step validation. Each task is documented as a PDF and uploaded to this repo for easy access and verification.
 
 📂 PDF Solutions
-Task No.	Title	PDF
+
+Task No.
 Q1	Kubernetes Cluster using Minikube	celebal_que_s1.pdf
+
 Q2	Kubernetes Cluster using Kubeadm	ques_2.pdf
+
 Q3–Q5	AKS Cluster with RBAC, Microservice Deployment, and Service Exposure	ques_3_4_5.pdf
 
 ✅ **Tasks Completed**
