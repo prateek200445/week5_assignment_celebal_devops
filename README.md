@@ -41,7 +41,7 @@ nginx app using NodePort
 Custom microservice using Docker image: prateek2004/my-frontend
 
 Accessed via:
-[*http://<your-node-ip>:<node-port>*](https://hub.docker.com/r/prateek2004/my-frontend)
+https://hub.docker.com/r/prateek2004/my-frontend
 
 🔹** Q3: Deploy an AKS Cluster and Enable RBAC Dashboard**
 Created an AKS cluster (new_kuber) using the Azure portal.
