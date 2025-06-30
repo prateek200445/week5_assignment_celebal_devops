@@ -77,7 +77,7 @@ commands:
 kubectl create deployment myfrontend --image=prateek2004/my-frontend:latest
 kubectl expose deployment myfrontend --type=LoadBalancer --port=80 --target-port=80
 Successfully accessed public-facing frontend at:
-**🌐 http://172.212.79.224**
+**🌐 http://4.213.203.76/**
 
 🔹** Q5: Expose Services Using All Service Types**
 ✅ **ClusterIP:** Default internal service.
@@ -109,7 +109,7 @@ Debugging Calico, taints, ports, and IP forwarding issues
 
 **💡 Public App IP
 ✅ Deployed frontend app (portfolio):
-🔗 http://172.212.79.224**
+🔗 http://4.213.203.76/**
 
 **🤝 Let's Connect**
 If you're a recruiter, contributor, or mentor exploring Kubernetes/DevOps talent, this repository demonstrates real deployment-level command over Kubernetes, RBAC, cloud infrastructure, and observability.
